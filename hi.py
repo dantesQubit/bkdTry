@@ -11,4 +11,7 @@ class Adri:
 # Some more comments
 # More changes
 
+
+class New:
+    pass
 # New
